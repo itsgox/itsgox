@@ -21,5 +21,9 @@ I'm André Costa a student that spends most of the time programming Discord Bots
 
 ![Visitors](https://komarev.com/ghpvc/?username=itsgox)
 
+### Github Stats
+
+[![Gox's GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsgox)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Learn More
 
