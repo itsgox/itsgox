@@ -3,7 +3,7 @@
 I'm André Costa a student that spends most of the time programming Discord Bots!
 
 ![Twitter URL](https://img.shields.io/twitter/url?label=itsgox&style=social&url=https%3A%2F%2Ftwitter.com%2Fitsgox)
-![Discord](https://img.shields.io/discord/755509445923963051?label=Discord&style=plastic)
+![Discord](https://img.shields.io/discord/755509445923963051?label=Discord&style=social)
 
 - 🔭 I’m currently working on Chamber
 - 🌱 I’m currently learning MongoDB
