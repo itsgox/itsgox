@@ -28,4 +28,5 @@ I started programming about 2 years ago with Python, but as you can see, Python 
 My first project was a Discord Bot called **Razy**, I worked on that bot for over a year, but ended up being denied by Discord. Later I created about 8 different Discord bots (none of them are active anymore), as you can see a have no life ^^"
 
 Currently I'm working on a music bot called **Chamber** that is almost reaching 200 servers. I worked on this project all by myself, for around 3 months now. I built the whole bot using JavaScript with Node.js and discord.js, and the website using HTML, SASS & JavaScript.
+
 I'm happy with what I've done so far, but I feel like I want more, let's see what comes next!
