@@ -25,7 +25,7 @@ I'm André Costa a student that spends most of the time programming Discord Bots
 
 I started programming about 2 years ago with Python, but as you can see, Python is not on my list, why? I didn't like Python a bit, so I decided to try JavaScript, and I loved it.
 
-My first project was a Discord Bot called **Razy**, I worked on that bot for over a year, but ended up being denied by Discord. Later I created about 8 different Discord bots (none of them are active anymore), as you can see a have no life ^^"
+My first project was a Discord Bot called **Razy**, I worked on that bot for over a year, but it ended up being denied by Discord. Later I created about 8 different Discord bots (none of them are active anymore), as you can see a have no life ^^"
 
 Currently I'm working on a music bot called **Chamber** that is almost reaching 200 servers. I worked on this project all by myself, for around 3 months now. I built the whole bot using JavaScript with Node.js and discord.js, and the website using HTML, SASS & JavaScript.
 
