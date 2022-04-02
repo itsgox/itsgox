@@ -17,15 +17,12 @@ I'm André Costa a student that spends most of the time programming Discord Bots
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsgox)](https://github.com/anuraghazra/github-readme-stats)
-
-### Profile Visits
-
-![Visitors](https://komarev.com/ghpvc/?username=itsgox)
-
 ### Github Stats
 
 [![Gox's GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsgox)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Learn More
 
+I started programming about 2 years ago with Python, but as you can see, Python is not on my list, why? I didn't like Python a bit, so I decided to try JavaScript, and I loved it. My first project was a Discord Bot called **Razy**, I worked on that bot for over a year, but ended up being denied by Discord. Later I created about 8 different Discord Bots (none of them are active anymore).
+Currently I'm working on a music bot that is almost reaching 200 servers. I worked on this project all by myself, for around 3 months now. I built the whole bot using JavaScript with Node.js and discord.js, and website using HTML, SASS & JavaScript.
+I'm happy with what I've done so far, but I feel like I want more, let's see what comes next!
