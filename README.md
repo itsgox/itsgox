@@ -17,4 +17,9 @@ I'm André Costa a student that spends most of the time programming Discord Bots
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
+### Profile Visits
+
 ![Visitors](https://komarev.com/ghpvc/?username=itsgox)
+
+### Learn More
+
