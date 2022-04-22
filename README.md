@@ -2,8 +2,8 @@
 
 I'm André Costa a student that spends most of the time programming Discord Bots!
 
-- 🔭 I’m currently working on **[Toki](https://tokibot.co)**
-- 🌱 I’m currently learning MongoDB
+- 🔭 I’m currently working on **Chamber**
+- 🌱 I’m currently learning React.js
 - 📫 How to reach me: mastergox@hotmail.com
 - ⚡ Fun fact: I'm main Yoru in Valorant
 
