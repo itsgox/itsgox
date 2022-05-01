@@ -13,4 +13,4 @@ I'm André Costa a student that spends most of the time programming!
 
 ### Wanna know more?
 
-Check my **[website](https://itsgox.com)**
+Check my **[website](https://itsgox.com)**!
