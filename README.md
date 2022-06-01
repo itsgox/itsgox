@@ -2,8 +2,8 @@
 
 I'm André Costa a student that spends most of the time programming!
 
-- 🔭 I’m currently working on **itsgox.com**
-- 🌱 I’m currently learning ReactJS
+- 🔭 I’m currently working on **spotify-to-ytmusic** / **itsgox.com** / **XRPG**
+- 🌱 I’m currently learning **Eris**
 - 📫 How to reach me: mastergox@hotmail.com
 - ⚡ Fun fact: I'm main Yoru in Valorant
 
