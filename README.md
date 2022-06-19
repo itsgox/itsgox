@@ -2,7 +2,7 @@
 
 I'm André Costa, a student that spends most of the time programming!
 
-- 🔭 I’m currently working on **norman.gg** / **spotify-to-ytmusic** / **itsgox.com**
+- 🔭 I’m currently working on **[norman.gg](https://norman.gg)** / **[spotify-to-ytmusic](https://www.npmjs.com/package/spotify-to-ytmusic)**
 - 🌱 I’m currently learning **ReactJS**
 - 📫 How to reach me: mastergox@hotmail.com
 - ⚡ Fun fact: I'm main Yoru in Valorant
