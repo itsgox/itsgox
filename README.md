@@ -1,4 +1,4 @@
-## Hey I'm Gox
+## Hey It's Gox
 
 I'm André Costa, a student that spends most of the time programming!
 
