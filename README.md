@@ -4,7 +4,7 @@ Hey! I'm André Costa aka Gox, a 19-year-old self-taught developer, that loves c
 
 - 🔭 I’m currently working on **[NotifyMe](https://notifymebot.com)** / **[Simple Firestore](https://npmjs.com/simple-firestore)**
 - 🌱 I’m currently learning **Digital Marketing**
-- 📫 How to reach me: mastergox@hotmail.com
+- 📫 How to reach me: goxinthebox@gmail.com
 - ⚡ Fun fact: I've developed 7 different Discord Bots in 2 years, and only 1 got verified by Discord :(
 
 ### About NotifyMe
