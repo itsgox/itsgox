@@ -1,4 +1,4 @@
-## Hey It's Gox
+## hey i'm gox. i develop things
 
 Hey! I'm André Costa aka Gox, a 19-year-old self-taught developer, that loves coding random stuff!
 
