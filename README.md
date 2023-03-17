@@ -1,6 +1,6 @@
 ## hey i'm gox. i develop things
 
-Hey! I'm André Costa aka Gox, a 19-year-old self-taught developer, that loves coding random stuff!
+Hey! I'm André Costa aka Gox, a 20-year-old self-taught developer, that loves coding random stuff!
 
 - 🔭 I’m currently working on **[NotifyMe](https://notifymebot.com)** / **[Simple Firestore](https://npmjs.com/simple-firestore)**
 - 🌱 I’m currently learning **Digital Marketing**
