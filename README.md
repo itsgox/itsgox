@@ -2,9 +2,9 @@
 
 Hey! I'm André Costa aka Gox, a 20-year-old self-taught developer, that loves coding random stuff!
 
-- 🔭 I’m currently working on **[NotifyMe](https://notifymebot.com)** / **[Simple Firestore](https://npmjs.com/simple-firestore)**
-- 🌱 I’m currently learning **Digital Marketing**
-- 📫 How to reach me: goxinthebox@gmail.com
+- 🔭 I’m currently working on **[NotifyMe](https://notifymebot.com)** / **[Simple Firestore](https://npmjs.com/simple-firestore)** / **[Spotify to YouTube Music](https://npmjs.com/spotify-to-ytmusic)**
+- 🌱 I’m currently building a Web Dashboard for NotifyMe using **React.js** & **Express**
+- 📫 How to reach me: **[goxinthebox@gmail.com](mailto:goxinthebox@gmail.com)**
 - ⚡ Fun fact: I've developed 7 different Discord Bots in 3 years, and only 2 got verified by Discord :(
 
 ### About NotifyMe
