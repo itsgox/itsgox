@@ -9,7 +9,7 @@ Hey! I'm André Costa aka Gox, a 20-year-old self-taught developer, that loves c
 
 ### About NotifyMe
 
-**NotifyMe** is a Discord Bot being used by 1k+ Discord Servers, that allows you to notify your Discord Community, whenever your favorite content creators post on YouTube, or go live on Twitch!
+**NotifyMe** is a Discord Bot being used by 4k+ Discord Servers, that allows you to notify your Discord Community, whenever your favorite content creators post on YouTube, or go live on Twitch!
 
 I decided to build this Discord Bot, because I felt like there wasn't a good notifications bot available, that not only was easy-to-use, but also had enough free channels, so here we are!
 
