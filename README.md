@@ -13,7 +13,7 @@ Hey! I'm André Costa aka Gox, a 20-year-old self-taught developer, that loves c
 
 I decided to build this Discord Bot, because I felt like there wasn't a good notifications bot available, that not only was easy-to-use, but also had enough free channels, so here we are!
 
-[![Discord Bots](https://top.gg/api/widget/1044050359586394192.svg)(https://top.gg/bot/1044050359586394192)
+![Discord Bots](https://top.gg/api/widget/1044050359586394192.svg)
 
 ### Github Stats
 
