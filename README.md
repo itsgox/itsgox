@@ -3,9 +3,9 @@
 Hey! I'm André Costa aka Gox, a 20-year-old self-taught developer, that loves coding random stuff!
 
 - 🔭 I’m currently working on **[NotifyMe](https://notifymebot.com)**
-- 🌱 I’m currently building a Web Dashboard for NotifyMe using **React.js** & **Node.js**
+- 🌱 I’m currently building a Project Management Web App using **React.js** & **Node.js**
 - 📫 How to reach me: **[goxinthebox@gmail.com](mailto:goxinthebox@gmail.com)**
-- ⚡ Fun fact: I've developed 7 different Discord Bots in 3 years, and only 2 got verified by Discord :(
+- ⚡ Fun fact: Lynx is my favorite animal :)
 
 ### About NotifyMe
 
