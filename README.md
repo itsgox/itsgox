@@ -1,4 +1,4 @@
-## hey i'm gox. i develop things
+## hey i'm gox. i develop things [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V2O6JL4)
 
 Hey! I'm André Costa aka Gox, a 20-year-old self-taught developer, that loves coding random stuff!
 
