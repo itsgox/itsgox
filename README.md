@@ -8,7 +8,7 @@ Hey! I'm André Costa aka Gox, a 21-year-old self-taught developer, that loves c
 
 ### About NotifyMe
 
-**NotifyMe** is a Discord Bot that allows allows receiving YouTube, Twitch and Kick.com notifications inside of Discord!
+**NotifyMe** is a Discord Bot that allows allows receiving YouTube, TikTok, Twitch and Kick.com notifications inside of Discord!
 
 I decided to build this Discord Bot, because I felt like there wasn't a good notifications bot available, that not only was easy-to-use, but also had enough free channels, so here we are!
 
