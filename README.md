@@ -2,8 +2,8 @@
 
 Hey! I'm Gox, a 21-year-old self-taught developer, that loves coding random stuff!
 
-- 🔭 I’m currently working on **[NotifyMe](https://notifymebot.com)**
-- 📫 How to reach me: **[goxdacosta@gmail.com](mailto:goxdacosta@gmail.com)**
+- 🔭 I’m currently working on **[NotifyMe](https://notifyme.bot)**
+- 📫 How to reach me: **[gox@dacosta.ws](mailto:gox@dacosta.ws)**
 - ⚡ Fun fact: Lynx is my favorite animal :)
 
 ### About NotifyMe
