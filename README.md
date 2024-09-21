@@ -3,13 +3,16 @@
 Hey! I'm Gox, a 21-year-old self-taught developer, that loves coding random stuff!
 
 - 🔭 I’m currently working on **[NotifyMe](https://notifyme.bot)**
-- 📫 How to reach me: **[gox@dacosta.ws](mailto:gox@dacosta.ws)**
+- 📫 How to reach me: **[andre@dacosta.ws](mailto:andre@dacosta.ws)**
 - ⚡ Fun fact: Lynx is my favorite animal :)
 
 ### About NotifyMe
 
-**NotifyMe** is a Discord Bot that allows allows receiving YouTube, TikTok, Twitch and Kick.com notifications inside of Discord!
+**NotifyMe** is a Discord bot trusted by over **58.000** servers worldwide.
 
-I decided to build this Discord Bot, because I felt like there wasn't a good notifications bot available, that not only was easy-to-use, but also had enough free channels, so here we are!
+Stay connected with notifications from YouTube, TikTok, Twitch, and Kick, right in your Discord server!
+
+I created this bot because I couldn't find a simple notifications bot with enough free channels…
+So here we are!
 
 ![Discord Bots](https://top.gg/api/widget/1044050359586394192.svg)
