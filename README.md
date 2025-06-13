@@ -1,6 +1,6 @@
 ## hey i'm gox. i develop things
 
-Hey! I'm Gox, a 21-year-old self-taught developer, that loves coding random stuff!
+Hey! I'm Gox, a 22-year-old self-taught developer, that loves coding random stuff!
 
 - 🔭 I’m currently working on **[NotifyMe](https://notifyme.bot)**
 - 📫 How to reach me: **[andre@dacosta.ws](mailto:andre@dacosta.ws)**
