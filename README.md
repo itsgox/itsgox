@@ -15,4 +15,4 @@ Stay connected with notifications from YouTube, TikTok, Twitch, and Kick, right 
 I created this bot because I couldn't find a simple notifications bot with enough free channels…
 So here we are!
 
-![Discord Bots](https://top.gg/api/widget/1044050359586394192.svg)
+![Discord Bots](https://top.gg/api/widget/servers/1044050359586394192.svg)
