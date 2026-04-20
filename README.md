@@ -8,7 +8,7 @@ Hey! I'm Gox, a 23-year-old self-taught developer, that loves coding random stuf
 
 ### About NotifyMe
 
-**NotifyMe** is a Discord bot trusted by over **270,000+** servers worldwide.
+**NotifyMe** is a Discord bot trusted by over **280,000+** servers worldwide.
 
 Stay connected with notifications from YouTube, TikTok, Twitch, and Kick, right in your Discord server!
 
